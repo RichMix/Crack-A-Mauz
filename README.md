@@ -111,7 +111,7 @@ Choose from the following modes:
 
 - Enter a static username
 
-- Provide a rainbow table in hash:password format
+- Provide a rainbow table in `hash:password` format
 
 - Optional: Proxy usage via Burp or custom list
 
