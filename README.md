@@ -201,7 +201,9 @@ If you like the project, consider ⭐️ starring the repo and following for mor
 
 ---
 
-## <i>**License**</i>
+## 📜 <i>**License**</i>
+
+This project is open-source and distributed under the terms of the MIT License. You are free to use, modify, and distribute it with proper attribution.
 
 ---
 
