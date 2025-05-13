@@ -179,7 +179,7 @@ This tool is intended for authorized testing in environments you own or have exp
 
 ## 🚧 <i>Future Plans: Crack-A-Mauz v2.0 (coming soon...)</i>
 
-- Additional support for other protocols/services (FTP, SSH, HTTP)
+- Additional support for other protocols/services (FTP, SSH)
 
 - Smart field detection with BeautifulSoup
 
