@@ -169,6 +169,12 @@ e10adc3949ba59abbe56e057f20f883e:123456
 
 ![proxy](https://github.com/mauzware/Mauzalyzer-assets/blob/main/rainbow%20proxy.png)
 
+⚠️ **Disclaimer**
+
+All testing was conducted exclusively on DVWA (Damn Vulnerable Web Application) in a controlled lab environment for educational and research purposes only.
+
+This tool is intended for authorized testing in environments you own or have explicit permission to test.
+
 ---
 
 ## 🚧 <i>Future Plans: Crack-A-Mauz v2.0 (coming soon...)</i>
@@ -207,7 +213,7 @@ This project is open-source and distributed under the terms of the MIT License. 
 
 ---
 
-## ⚠️<i>**Disclaimer**</i>
+## ⚠️ <i>**Disclaimer**</i>
 
 ⚠️ The content in this repository is for educational and informational purposes only; the author holds no responsibility for misuse. 
 Ensure proper authorization before use, act responsibly at your own risk, and comply with all legal and ethical guidelines. ⚠️
