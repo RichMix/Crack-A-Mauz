@@ -62,6 +62,20 @@ If you are missing some modules by any chance, you can install them with: <br>
 1) Create a virtual environment and use: **pip3 install -r requirements.txt** <br>
 2) Install them manually with apt: **sudo apt install python3-[module_name]**
 
+<i>**Virtual Environment Setup**</i>
+
+```
+sudo apt update
+sudo apt install python3-venv -y
+
+git clone https://github.com/mauzware/Crack-A-Mauz.git
+cd Crack-A-Mauz
+python3 -m venv crackamauz-env
+source crackamauz-env/bin/activate
+pip install -r requirements.txt
+deactivate
+```
+
 ---
 
 ## 📦 <i>**Dependencies**</i>
